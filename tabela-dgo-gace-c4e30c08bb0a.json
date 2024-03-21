@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "tabela-dgo-gace",
+  "private_key_id": "c4e30c08bb0a0875341e458ff5ab0b351192c507",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQCur+UdT4e93k2P\nGvqlOItb2QJndALaEKXUcYfDhpXMw4NynO+vp6Fik8hJdcwbZK8p1MZ5nLQoPGO9\nj3efIO6q1L2J92GGEF9xtY2VBhrBlyplt9duPUqvTaJaYhq77ipWPpFUucmYZIB0\nxrkmqcjzT0M0HLaSeaJCUfWnaw4xa2PgDXFBymw8goON85BL+vmtJq2W49rKbANu\nJQwlH6wNmc8Wxm/i6lGa4qC9Zp5/2mZu9M+B6StJ1N4GvRjE7V42sQ86kITbYqGC\n5fho2FqTR+wGKyihNeqeQocX5hhbOmHOCQkMlEo9snYiZf90mFbKGxZTEkNWP/pA\nVkxQmvR7AgMBAAECggEAHFNzYHxb84LPqsviJtZzapJW3HWoXLnkWf2K2T7CnbB6\naSRfjWkuNzDlglvym+KIsMzK3j91yyx3s+5GpGwPp23VykBt9PJEt8iLy8Vwo0Gi\n41mbOkoACUsab3OHCEBHZzLAGDAEK4zoc4ch0M4pQqLwr8uUI05L7Fsj7WDjrUmL\nEkIlprxV+uZMcpuZcMzdCGcymlmKk3YUlSZHVAQsgVvTFAWPJWrzpsEPIez+B/81\nIBkyezGD1s54hYjnWVQL7M4kP5T74Je+SfNAE0iOHWjXRQw4F4JB5xwUa4PzWpz3\n4lxBbT4EuPMHBnM4olbIWO8G133ek3uogpkfCHbNaQKBgQDWz/qwrOvW3nmiwnJP\nygF/1GoWnbSWa6Yn6PKa/bSv5o6HfKNIKbRdE4SpnH0UadvgHPHFkJL5Ieuz51fc\nlpHqFLV2XgR2j4DnDOGP1wp+UDISUN6EpEFAUbl7WuZ3DgYwS2mV1jqbhJ+G9hk5\nkqeXXXUC6sep32Ele0obQfryvwKBgQDQLl9oUfLsAwqnAZvk1lQzi/tRoV/n3bu2\n+IqTBE6qyga3W30yr0694Gi8clsrxoRW4W74ZWaA+CI5kF2HesKG4MVMQ2dtubcd\n4tdJvwFOYBDxocA+PYHkfZUHmshMqUpkWv37kkofGgQ3VXy1j3jD3R0uHDk0hT8L\nixKoEdU5RQKBgQDP1zeljgo6QdPKyPy1eqxstGdZLom2KL4BS4DAuc0DjL5HFS8e\n+UsL64CmY0UaZTpa42aCU1oBNvLJhIMcaYsQw6y3tEv5MuvzoiD0fYonoQxxcFF8\nYTjJNMmUMuVeN/GA9NZaJYdbRbzcZm0NqXoCGGjIw8Uf9YQXMe0H5pUaHQKBgDYk\nGUP0LA0dLWQJkxWMeBF/0jiEk4Clte/7624YrKzWJbEB5imMVhojhpmb1AIqerht\noIKRPHtGDQCTfv+A+Z5CTo1q6jcrGWh4Wi0fs6NCcKWmv2xwapuV3XBA3N6zGFnJ\nIEyQ2x4Dkh0h6nD9gxbNJo2bYXU7Qg4qeQukt6NRAoGBAI5I0MSkxwEYatJhONIF\n+QyAwNznJTSBTO5nv09ZBhNXBGE+v6NW8Kckcj49fbzaR0QOyicJBDnP9ZJoUCmW\n8K+4ewxK1QSl8P3ZoKIBOUjA9NTELZ/ZVu7RLPVjE9BsJnqCuNkpxnNJzP4E+Lwd\nvFb7ysaGC2HkpUNADq1/KKio\n-----END PRIVATE KEY-----\n",
+  "client_email": "conta-servico-dgo@tabela-dgo-gace.iam.gserviceaccount.com",
+  "client_id": "103312812438595353650",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/conta-servico-dgo%40tabela-dgo-gace.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
